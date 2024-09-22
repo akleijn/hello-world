@@ -1,7 +1,7 @@
 # hello-world
 Alex' test repository
 
-Hi world,
+Hi there,
 
 You've probably better things to do than browse my github repositories ;-)
 
